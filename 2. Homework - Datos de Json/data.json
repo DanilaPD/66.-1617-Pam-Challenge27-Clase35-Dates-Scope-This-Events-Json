@@ -1,0 +1,16 @@
+[{
+        "id": 1,
+        "nombre": "banana",
+        "categoria": "fruta"
+    },
+    {
+        "id": 1,
+        "nombre": "lechuga",
+        "categoria": "verdura"
+    },
+    {
+        "id": 1,
+        "nombre": "tomate",
+        "categoria": "fruta"
+    }
+]
